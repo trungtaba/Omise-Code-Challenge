@@ -1,0 +1,30 @@
+{
+  "buy": [
+    {
+      "volume": 1.6,
+      "price": 100.01
+    },
+    {
+      "volume": 1.8,
+      "price": 91.33
+    },
+    {
+      "volume": 0.15,
+      "price": 90.15
+    },
+    {
+      "volume": 4.3,
+      "price": 89.394
+    }
+  ],
+  "sell": [
+    {
+      "volume": 2.2,
+      "price": 100.013
+    },
+    {
+      "volume": 3.8,
+      "price": 100.15
+    }
+  ]
+}
